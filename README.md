@@ -2,17 +2,17 @@
 These are the different types of data in Pithon
 
 # Index:
-####Integer or Long Numbers 
+Integer or Long Numbers 
 - [Code](https://github.com/elmarcz/Data-types-in-Python/blob/main/Files/Integer%20or%20long.py)
 
-####Float Numbers 
+Float Numbers 
 - [Code](https://github.com/elmarcz/Data-types-in-Python/blob/main/Files/float.py)
 
-###Complex Numbers
+Complex Numbers
 - [Code](https://github.com/elmarcz/Data-types-in-Python/blob/main/Files/complex.py)
 
-###Strings
+Strings
 - [Code](https://github.com/elmarcz/Data-types-in-Python/blob/main/Files/string.py)
 
-###Boolean
+Boolean
 - [Code](https://github.com/elmarcz/Data-types-in-Python/blob/main/Files/booleans)
