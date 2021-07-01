@@ -1,5 +1,5 @@
 # Data-types-in-Python
-These are the different types of data in Pithon
+These are the different data types in Python
 
 # Index:
 Integer or Long Numbers 
